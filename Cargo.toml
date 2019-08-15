@@ -5,4 +5,4 @@ authors = ["Jonas Meyer <jonas.meyer@gmail.com>"]
 edition = "2018"
 
 [dependencies]
-microprofile="0.0.1"
+microprofile="0.2.1"
